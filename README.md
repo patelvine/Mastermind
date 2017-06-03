@@ -1,11 +1,14 @@
 Mastermind
 ===========
-
 2D based game of mastermind (Executed through command prompt)
 
-Controls: Will be prompted during the progression of the game
+Controls
+===========
+Will be prompted during the progression of the game
 
-Requires Java 7. <br />
+Run
+===========
+Requires Java 7. <br /><br />
 Locate mastermind.jar through command prompt and type
  > java -jar mastermind.jar
  
